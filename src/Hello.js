@@ -8,7 +8,7 @@ function Hello({name, color, isSpecial}) {
 
 Hello.defaultProps={
     name:'이름없음',
-    color:'black',
+    color:'red',
     isSpecial:null
 }
 
